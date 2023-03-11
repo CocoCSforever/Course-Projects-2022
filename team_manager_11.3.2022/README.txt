@@ -5,7 +5,7 @@ Summary:
     
     
 Implementation:
-    The program introduces itself and asks you what you want to do. The options are 
+    The program introduces itself and asks you what you want to do. The options are: 
         set team name
         show roster
         add player

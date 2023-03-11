@@ -1,6 +1,5 @@
 Summary:
-This project collects statistics from a simple data file representing a collection of users,
-analyze the frequencies of language and country domains.
+This project collects statistics from a simple data file(users.csv) representing a collection of users, analyze the frequencies of language and country domains.
 
 
 Run report.py

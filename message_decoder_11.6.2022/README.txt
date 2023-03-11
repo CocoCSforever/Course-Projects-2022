@@ -1,6 +1,5 @@
 Summary:
-    The decoding algorithm uses a stack. Reading from left to right, each character is placed on the stack, except for the characters * (asterisk) and ^ (caret). Those two characters have special meaning. 
-    When the * is encountered, one character is popped from the stack and appended to the solution string. When the ^ is encountered, two characters are popped and appended to the solution string, one after the other (pop one and append it to the string, pop the next and append it to the string).
+    The decoding algorithm uses a stack. Reading from left to right, each character is placed on the stack, except for the characters * (asterisk) and ^ (caret). Those two characters have special meaning. When the * is encountered, one character is popped from the stack and appended to the solution string. When the ^ is encountered, two characters are popped and appended to the solution string, one after the other (pop one and append it to the string, pop the next and append it to the string).
     (NOT cryptographically secure)
 
 

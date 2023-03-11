@@ -1,9 +1,7 @@
 Summary:
-    This project is to implement a word ladder that connects from one word to another, which is formed 
-by changing one letter at a time with the constraint that at each step the sequence of letters still forms a valid word.
+    This project is to implement a word ladder that connects from one word to another, which is formed by changing one letter at a time with the constraint that at each step the sequence of letters still forms a valid word.
     The file words_alpha.txt provides the list of valid words and is loaded into the program as a dictionary of sets.
-    Word ladders can be made between words of varying lengths by insertion, deletion, alteration 
-of a single letter to or from anywhere in a word at each step.
+    Word ladders can be made between words of varying lengths by insertion, deletion, alteration of a single letter to or from anywhere in a word at each step.
 
 
 Implementation:

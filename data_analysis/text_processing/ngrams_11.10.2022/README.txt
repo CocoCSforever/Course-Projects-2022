@@ -1,12 +1,7 @@
 Summary:
-This project serves as a way to practice machine learning models for natural language processing.
-Frequencies of words in sequence can be important features.
-Short sequences of word tokens are referred to as n-grams, where n is the number of tokens in each item.
-So,a count of unigrams is simply a count of occurrences for each word token.
-Bigrams refer to pairs of words in sequence (for example, "pairs_of", "of_words", "words_in", and "in_sequence") 
-and trigrams are triples of words in sequence ("triples_of_words", "of_words_in", "words_in_sequence").
-The longer the n-gram, the less frequently it will be found in a given text, 
-so n-grams much longer than trigrams are often too sparsely distributed to be worth collecting.
+    This project serves as a way to practice machine learning models for natural language processing where frequencies of words in sequence can be important features.
+    Short sequences of word tokens are referred to as n-grams, where n is the number of tokens in each item. So, a count of unigrams is simply a count of occurrences for each word token. Bigrams refer to pairs of words in sequence (for example, "pairs_of", "of_words", "words_in", and "in_sequence") and trigrams are triples of words in sequence ("triples_of_words", "of_words_in", "words_in_sequence").
+    The longer the n-gram, the less frequently it will be found in a given text, so n-grams much longer than trigrams are often too sparsely distributed to be worth collecting.
 
 
 Implementation details
